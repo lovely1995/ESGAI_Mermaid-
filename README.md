@@ -1,4 +1,4 @@
-# 集團碳足跡平台
+# 集團碳足跡平台AI小助手
 
 > 基於 unsloth/Qwen3-14B-Base-unsloth-bnb-4bit SFT 
 
